@@ -1,3 +1,14 @@
 body {
     font-family: 'Telex', sans-serif;
 }
+
+.top-container {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 10em;
+}
+
+.logo {
+    height: 10em;
+}
