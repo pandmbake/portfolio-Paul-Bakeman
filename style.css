@@ -80,3 +80,25 @@ li {
 .greeting {
     font-size: 1.3em;
 }
+
+.what {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin: 4em 4em;
+  border: solid black 2px;
+  height: 20em;
+  
+}
+
+.left {
+  text-align: center;
+}
+
+.middle {
+  text-align: center;
+}
+
+.right {
+  text-align: center;
+}
